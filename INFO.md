@@ -1,3 +1,0 @@
-dog
-elephant
-tiger
