@@ -1,1 +1,3 @@
-new line
+dog
+elephant
+tiger
